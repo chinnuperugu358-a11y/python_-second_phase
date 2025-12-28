@@ -1,0 +1,21 @@
+class Student:
+    def __init__(self, name, id, age):
+        self.name = name
+        self.id = id
+        self.age = age
+
+    def study(self):
+        print("I am studying")
+        print(self.id)
+
+
+s1 = Student("thanu", 92, 19)
+print(s1.name)
+print(s1.id)
+print(s1.age)
+s1.study()
+
+s2 = Student("indhu", 29, 28)
+print(s2.name)
+print(s2.id)
+print(s2.age)
