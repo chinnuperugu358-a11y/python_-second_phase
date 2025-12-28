@@ -1,0 +1,11 @@
+n=15
+m=20
+while n!=0 and m!=0:
+    if n>m:
+        n=n%m
+    else:
+        m=m%n
+        if n!=0:
+            print(n)
+        else:
+            print(m)
