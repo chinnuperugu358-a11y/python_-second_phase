@@ -1,0 +1,33 @@
+class car:
+    def__init_(self):
+        self.name="swift"
+        self.price=234567
+        self.colour="blue"
+        def accelerate(self):
+            print("car is stopping")
+            print(Self_colour)
+            def break_system(self):
+                print("car is stopping")
+                def start(Self):
+                    print("car is starting")
+                    c1=car()
+                    class car:
+                        de__init__(self,name,price,colour):
+                            self.name=name
+                            self.price=price
+                            self.colour=colour
+                            def accelerate(self):
+                                point("i am accelerating")
+                                print(self.colour)
+                                def break_system(Self):
+                                    print("car is stopping")
+                                    de start(self):
+                                        print(("car is starting")
+                                              c1=car("swift",34567,"white")
+                                              print(c1.name)
+                                              print(c1.price)
+                                              print(c1.colour)
+                                              c2=car("toyato",23457,"black")
+                                              print(c2.name)
+                                              print(c2.price)
+                                              print(c2.colour)
